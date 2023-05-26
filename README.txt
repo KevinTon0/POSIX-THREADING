@@ -3,10 +3,6 @@
 	Project: File-Parser
 	Filename: Parser.cpp
 **************************************************************************************************************************
-
-			Please use cssc0846 for account identifer to be used for testing
-
-**************************************************************************************************************************
 LIST OF FILES:
 
 Code Repository:
@@ -24,10 +20,10 @@ COMPILE INSTRUCTIONS:
 In directory, type "make"
 **************************************************************************************************************************
 OPERATION INSTRUCTIONS:
-	~/a1 make clean			To clean any leftover files
-	~/a1 make			To create an executable
-	~/a1 bots			Run executable
-	~/a1 vim QUOTE.txt		To check file being written to
+	~/POSIX_Threading_Kevin_Ton make clean			To clean any leftover files
+	~/POSIX_Threading_Kevin_Ton make			To create an executable
+	~/POSIX_Threading_Kevin_Ton bots			Run executable
+	~/POSIX_Threading_Kevin_Ton vim QUOTE.txt		To check file being written to
 
 List/description of novel/significant design decisions:
 
